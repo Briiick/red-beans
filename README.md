@@ -1,1 +1,5 @@
-# red-beans
+# Red Beans
+
+In this project we train a Generative Adversarial Network (GAN) on the [Azuki](https://www.azuki.com/) NFT collection listed on [OpenSea](https://opensea.io/collection/azuki).
+
+From there, the idea is to create novel, twisted-looking Azukis that have their own cool, artsy look. This project is inspired by [BastardGANPunks](https://bastardganpunks.club/) also on [OpenSea](https://opensea.io/collection/bastard-gan-punks). The reason we call the project "Red Beans" is because the motto for Azuki is "Take the Red Bean". Azuki means red bean in English. Hence, if Azukis were to actually take this red bean, just as [Neo from the Matrix takes the red pill](https://en.wikipedia.org/wiki/Red_pill_and_blue_pill#:~:text=Neo%20takes%20the%20red%20pill,he%20has%20been%20lying%20unconscious.), they might awaken to an alternate reality (we have no idea what true Azuki reality is), and come out looking like this project's resulting art.
